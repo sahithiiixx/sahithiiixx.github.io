@@ -1,6 +1,7 @@
 ## Portfolio
 ### Certificates
 <a href="https://www.linkedin.com/in/sahithi-y-07a1ba267/">View My LinkedIn Profile</a> 
+<br>
 - internship in AI - COGNIZANCE
   <img src="images/internship certificate.png">
   
