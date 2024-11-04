@@ -5,12 +5,14 @@
 ### Category Name 2
 
 - internship in AI - COGNIZANCE
-  <img src="">
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
+  <img src="images/internship certificate.png">
+  
+- certificate in c++ programming - udemy
+  <img src="images/udemy certificate 1.jpg">
+  
+- certificate in c programming - udemy
+  <img src="images/udemy certificate 2.jpg">
+ 
 ---
 
 
