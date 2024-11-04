@@ -1,4 +1,7 @@
 ## Portfolio
+  <a href="https://www.linkedin.com/in/sahithi-y-07a1ba267/">View My LinkedIn Profile</a> 
+  <br>
+    <a href="https://www.instagram.com/sahithiiixx/">connect with me on Instagram </a> 
 
 ### Certificates
 
